@@ -1,0 +1,3 @@
+Use
+
+<embed src="linktohtmloflibrary" type=text/html>
