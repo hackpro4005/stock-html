@@ -1,3 +1,3 @@
-Use
+Dowload the HTML of the library you want and then use
 
-<embed src="linktohtmloflibrary" type=text/html>
+<embed src="downloaded html" type=text/html>
